@@ -1,0 +1,1 @@
+# Girilen Kelimenin Palindromik Olup Olmadığını Denetleyen Program.
